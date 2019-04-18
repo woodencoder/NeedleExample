@@ -1,0 +1,21 @@
+PODS:
+  - NeedleFoundation (0.9.1)
+
+DEPENDENCIES:
+  - NeedleFoundation (from `https://github.com/uber/needle`)
+
+EXTERNAL SOURCES:
+  NeedleFoundation:
+    :git: https://github.com/uber/needle
+
+CHECKOUT OPTIONS:
+  NeedleFoundation:
+    :commit: cd809ffda41d3721098e33e34f1c59a84c97d04a
+    :git: https://github.com/uber/needle
+
+SPEC CHECKSUMS:
+  NeedleFoundation: e39c2b8e1406fce9617848a6a39f89fb2ba05c8a
+
+PODFILE CHECKSUM: 7539bdccd316fe8d4524213567d96e7f84ff91c3
+
+COCOAPODS: 1.6.1
